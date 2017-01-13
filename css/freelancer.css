@@ -5,7 +5,7 @@
  */
 
  body {
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Roboto', sans-serif;
   overflow-x: hidden;
 }
 p {
@@ -28,7 +28,7 @@ h3,
 h4,
 h5,
 h6 {
- font-family: 'Press Start 2P', cursive;
+ font-family: 'Roboto', sans-serif;
  text-transform: uppercase;
  font-weight: 700;
  text-shadow: 2px 1px #000;
@@ -85,7 +85,7 @@ header img {
 }
 header .intro-text .name {
   display: block;
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 1.75em;
@@ -111,7 +111,7 @@ header .intro-text .skills {
 }
 .navbar-custom {
   background: #5D9ED0;
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   border: none;
